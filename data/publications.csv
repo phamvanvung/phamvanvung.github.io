@@ -1,0 +1,312 @@
+id,publink,title,authors,date,publisher,doi,github,video,bibtext
+pham2023idvs,https://link.springer.com/article/10.1007/s11119-022-09962-8,iDVS: interactive 2D and 3D visualizations of proximal sensor data for rapid characterization of soil profiles,"<b>Vung Pham</b>, Cynthia M. Jordan, Matthew G. Siebecker, David C. Weindorf & Tommy Dang ",7-Oct-22,"Precision Agriculture, Springer Nature",https://doi.org/10.1007/s11119-022-09962-8,https://github.com/iDataVisualizationLab/Soil/tree/master/cores,http://idatavisualizationlab.github.io/Soil/cores/cores.html,"@article{pham2023idvs,<br/>
+  title={iDVS: interactive 2D and 3D visualizations of proximal sensor data for rapid characterization of soil profiles},<br/>
+  author={Pham, Vung and Jordan, Cynthia M and Siebecker, Matthew G and Weindorf, David C and Dang, Tommy},<br/>
+  journal={Precision Agriculture},<br/>
+  volume={24},<br/>
+  number={2},<br/>
+  pages={627--646},<br/>
+  year={2023},<br/>
+  publisher={Springer}<br/>
+}"
+nguyen2022racaviz,https://ieeexplore.ieee.org/abstract/document/10020463,RaCAViz: Interactive Visualizations for Rapid Carbon Assessment,Du Nguyen; <b>Vung Pham</b>,1-Dec-22,"2022 IEEE International Conference on Big Data (Big Data), IEEE",https://doi.org/10.1109/BigData55660.2022.10020463,,,"@inproceedings{nguyen2022racaviz,<br/>
+  title={RaCAViz: Interactive Visualizations for Rapid Carbon Assessment},<br/>
+  author={Nguyen, Du and Pham, Vung},<br/>
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)},<br/>
+  pages={4543--4550},<br/>
+  year={2022},<br/>
+  organization={IEEE}<br/>
+}"
+pham2022road,https://ieeexplore.ieee.org/document/10020856,Road Damages Detection and Classification with YOLOv7,<b>Vung Pham</b>; Du Nguyen; Christopher Donan,1-Dec-22,"2022 IEEE International Conference on Big Data (Big Data), IEEE",https://doi.org/10.1109/BigData55660.2022.10020856,,,"@article{pham2022road,<br/>
+  title={Road Damages Detection and Classification with YOLOv7},<br/>
+  author={Pham, Vung and Nguyen, Du and Donan, Christopher},<br/>
+  journal={arXiv preprint arXiv:2211.00091},<br/>
+  year={2022}<br/>
+}"
+MalView,https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895250,MalView: Interactive Visual Analytics for Comprehending Malware Behavior,"Huyen N Nguyen, Faranak Abri, <b>Vung Pham</b>, Moitrayee Chatterjee, Akbar Siami Namin, Tommy Dang","September, 2022","IEEE Access, IEEE",https://doi.org/10.1109/ACCESS.2022.3207782,,,"@article{nguyen2022malview,<br/>
+                                title={MalView: Interactive Visual Analytics for Comprehending Malware Behavior},<br/>
+                                author={Nguyen, Huyen N and Abri, Faranak and Pham, Vung and Chatterjee, Moitrayee and Namin, Akbar Siami and Dang, Tommy},<br/>
+                                journal={IEEE Access},<br/>
+                                year={2022},<br/>
+                                publisher={IEEE}<br/>
+                                }"
+RDNetBigData,https://ieeexplore.ieee.org/document/9671527,RDNet: Deep Learning Model for Predicting pH H20 and pHKCl from Soil Vis-NIR Spectra,"<b>Vung Pham</b>, David C. Weindorf, Tommy Dang","December, 2021","2021 IEEE International Conference on Big Data, IEEE",https://doi.org/10.1109/BigData52589.2021.9671527,https://github.com/iDataVisualizationLab/V/blob/master/globalsoilspectral/index.md,,"@inproceedings{pham2021rdnet,<br />
+          title={RDNet: Deep Learning Model for Predicting pH H 2 0 and pH KCl from Soil Vis-NIR Spectra},<br />
+          author={Pham, Vung and Weindorf, David C and Dang, Tommy},<br />
+          booktitle={2021 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={3436--3445},<br />
+          year={2021},<br />
+          organization={IEEE}<br />
+          }"
+RDNetCompag,https://www.sciencedirect.com/science/article/pii/S0168169921005561,"Soil profile analysis using interactive visualizations, machine learning, and deep learning","<b>Vung Pham</b>, David C. Weindorf, Tommy Dang","November, 2021","Computer and Electronics in Agriculture, Elsevier",https://doi.org/10.1016/j.compag.2021.106539,https://github.com/iDataVisualizationLab/V/tree/master/globalsoilspectral,,"@article{pham2021soil,<br />
+          title={Soil profile analysis using interactive visualizations, machine learning, and deep learning},<br />
+          author={Pham, Vung and Weindorf, David C and Dang, Tommy},<br />
+          journal={Computers and Electronics in Agriculture},<br />
+          volume={191},<br />
+          pages={106539},<br />
+          year={2021},<br />
+          publisher={Elsevier}<br />
+          }<br />"
+HMAViz,https://dl.acm.org/doi/abs/10.1145/3468784.3471601,HMaViz: Human-machine analytics for visual recommendation,"Ngan Nguyen, <b>Vung Pham</b>, Tommy Dang","June, 2021","IAIT2021, ACM",https://doi.org/10.1145/3468784.3471601,https://github.com/phamvanvung/ContextualBandits,,"@inproceedings{nguyen2021hmaviz, <br />
+          title={HMaViz: Human-machine analytics for visual recommendation}, <br />
+          author={Nguyen, Ngan VT and Pham, Vung and Dang, Tommy},<br />
+          booktitle={The 12th International Conference on Advances in Information Technology},<br />
+          pages={1--9},<br />
+          year={2021}<br />
+          }<br />"
+ScagnosticsBookChapter,https://www.intechopen.com/online-first/76463,JavaScript Implementation of Scagnostics and Its Applications,"<b>Vung Pham</b>, Tommy Dang","September, 2021",IntechOpen,http://dx.doi.org/10.5772/intechopen.97490,https://idatavisualizationlab.github.io/ScagnosticsJS,https://idatavisualizationlab.github.io/ScagnosticsJS,"@article{pham2021javascript, <br />
+          title={JavaScript Implementation of Scagnostics and Its Applications},<br />
+          author={Pham, Vung and Dang, Tommy},<br />
+          year={2021},<br />
+          publisher={IntechOpen}<br />
+          }"
+Vung_RoadDamage_2020,https://doi.org/10.1109/BigData50022.2020.9378027,Road Damage Detection and Classification with Detectron2 and Faster R-CNN,"<b>Vung Pham</b>, Chau Pham, Tommy Dang","December, 2020","IEEE Big Data 2020, IEEE",https://doi.org/10.1109/BigData50022.2020.9378027,https://github.com/iDataVisualizationLab/roaddamagedetector,https://youtu.be/IWk7uvIfO7Q,"@article{pham2020road,<br />
+          title={Road Damage Detection and Classification with Detectron2 and Faster
+          R-CNN},<br />
+          author={Pham, Vung and Pham, Chau and Dang, Tommy},<br />
+          journal={arXiv preprint arXiv:2010.15021},<br />
+          year={2020}<br />
+          }"
+ScagCNN,https://dl.acm.org/doi/pdf/10.1145/3406601.3406644,ScagCNN: Estimating visual characterizations of 2d scatterplots via convolution neural network,"<b>Vung Pham</b>, Ngan Nguyen, Tommy Dang","July, 2020","Conference: IAIT2020: Proceedings of the 11th International Conference on Advances in Information Technology, Publisher: IEEE",https://doi.org/10.1145/3406601.3406644,https://github.com/iDataVisualizationLab/V/tree/master/ScagCNN,https://youtu.be/7o06MpAO02c,"@inproceedings{pham2020scagcnn,<br />
+          title={Scagcnn: Estimating visual characterizations of 2d scatterplots via convolution
+          neural network},<br />
+          author={Pham, Vung and Nguyen, Ngan VT and Dang, Tommy},<br />
+          booktitle={Proceedings of the 11th International Conference on Advances in Information
+          Technology},<br />
+          pages={1--9},<br />
+          year={2020}<br />
+          }"
+ScagnosticsJS,https://diglib.eg.org/bitstream/handle/10.2312/egs20201022/077-080.pdf,ScagnosticsJS: Extended Scatterplot Visual Features for the Web,"<b>Vung Pham</b>, Tommy Dang","July, 2020","Conference: EUROGRAPHICS 2020, Publisher: The Eurographics Association",https://doi.org/10.2312/egs.20201022,https://github.com/iDataVisualizationLab/ScagnosticsJS,https://youtu.be/wrKAKacRsMU,"@inproceedings {pham2020scagnosticsjs,<br />
+          booktitle = {Eurographics 2020 - Short Papers},<br />
+          editor = {Wilkie, Alexander and Banterle, Francesco},<br />
+          title = {{ScagnosticsJS: Extended Scatterplot Visual Features for the Web}},<br />
+          author = {Pham, Vung and Dang, Tommy},<br />
+          year = {2020},<br />
+          publisher = {The Eurographics Association},<br />
+          ISSN = {1017-4656},<br />
+          ISBN = {978-3-03868-101-4},<br />
+          DOI = {10.2312/egs.20201022}<br />
+          }"
+3406601.3406643,https://dl.acm.org/doi/abs/10.1145/3406601.3406643,"DeepVix: Explaining Long
+              Short-Term Memory Network With High Dimensional Time Series Data","Tommy Dang, Hao Van, Huyen Nguyen, <b>Vung Pham</b>, Rattikorn Hewett",Jul-20,"IAIT2020: Proceedings of the 11th International Conference on Advances in Information
+            Technology, Publisher: ACM",https://doi.org/10.1145/3406601.3406643,,,"@inproceedings{dang2020deepvix,<br />
+          title={DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time
+          Series Data},<br />
+          author={Dang, Tommy and Van, Hao and Nguyen, Huyen and Pham, Vung and Hewett,
+          Rattikorn},<br />
+          booktitle={Proceedings of the 11th International Conference on Advances in Information
+          Technology},<br />
+          pages={1--10},<br />
+          year={2020}<br />
+          }"
+SoilScanner,https://diglib.eg.org/handle/10.2312/envirvis20201094,SoilScanner: 3D Visualization for Soil Profiling using Portable X-ray Fluorescence,"<b>Vung Pham</b>, David Weindorf, Tommy Dang",Jul-19,"Conference: 2019 Workshop on Visualisation in Environmental Sciences (EnvirVis),
+            Publisher:
+            The Eurographics Association",https://doi.org/10.2312/envirvis.20201094,https://github.com/iDataVisualizationLab/Soil,https://idatavisualizationlab.github.io/Soil/soil3d,"@inproceedings {virvis.20191102,<br />
+          booktitle = {Workshop on Visualisation in Environmental Sciences (EnvirVis)},<br />
+          editor = {Bujack, Roxana and Feige, Kathrin and Rink, Karsten and Zeckzer, Dirk},<br />
+          title = {{SOAViz: Visualization for Portable X-ray Fluorescence Soil Profiles}},<br />
+          author = {Pham, Vung and Dang, Tommy},<br />
+          year = {2019},<br />
+          publisher = {The Eurographics Association},<br />
+          ISBN = {978-3-03868-086-4},<br />
+          DOI = {10.2312/envirvis.20191102}<br />
+          }<br />"
+eurova20201082,https://diglib.eg.org/handle/10.2312/eurova20201082,"DualNetView: Dual Views
+              for Visualizing the Dynamics of Networks","<b>Vung Pham</b>, Ngan Nguyen, Tommy Dang",May-20,"Conference: EuroVis Workshop on Visual Analytics (EuroVA), 2020. Publisher: The
+            Eurographics
+            Association",https://doi.org/10.2312/eurova.20201082,https://github.com/iDataVisualizationLab/V/tree/master/Threats,https://youtu.be/x1nZCJP9oVc,"@inproceedings {rova.20201082,<br />
+          booktitle = {EuroVis Workshop on Visual Analytics (EuroVA)},<br />
+          editor = {Turkay, Cagatay and Vrotsou, Katerina},<br />
+          title = {{DualNetView: Dual Views for Visualizing the Dynamics of Networks}},<br />
+          author = {Pham, Vung and Nguyen, V. T. Ngan and Dang, Tommy},<br />
+          year = {2020},<br />
+          publisher = {The Eurographics Association},<br />
+          ISSN = {2664-4487},<br />
+          ISBN = {978-3-03868-116-8},<br />
+          DOI = {10.2312/eurova.20201082}<br />
+          }"
+1141320,https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11413/1141320/Securing-autonomous-system-in-multi-domain-tactical-environment/10.1117/12.2558640.short?SSO=1,Securing autonomous system in multi-domain tactical environment,"Dy D. Le, <b>Vung Pham</b>, Tommy Dang",May-20,"Proceedings of SPIE, Book title: Artificial Intelligence and Machine Learning for
+            Multi-Domain Operations Applications II, Organization: International Society for
+            Optics and
+            Photonics",https://doi.org/10.1117/12.2558640,,,"@inproceedings{le2020securing,<br />
+          title={Securing autonomous system in multi-domain tactical environment},<br />
+          author={Le, Dy D and Pham, Vung and Dang, Tommy},<br />
+          booktitle={Artificial Intelligence and Machine Learning for Multi-Domain Operations
+          Applications II},<br />
+          volume={11413},<br />
+          pages={1141320},<br />
+          year={2020},<br />
+          organization={International Society for Optics and Photonics}<br />
+          }"
+s12665-020-8851-6,https://link.springer.com/article/10.1007/s12665-020-8851-6,"AgasedViz:
+              visualizing groundwater availability of Ogallala Aquifer, USA","Tommy Dang, <b>Vung Pham</b>, Huyen Nguyen, Ngan Nguyen","February, 2020","Journal: Environmental Earth Sciences, Publisher: Springer",https://doi.org/10.1007/s12665-020-8851-6,https://github.com/iDataVisualizationLab/WatViz,,"@article{dang2020agasedviz,<br />
+          title={AgasedViz: visualizing groundwater availability of Ogallala Aquifer, USA},<br />
+          author={Dang, Tommy and Pham, Vung and Nguyen, Huyen N and Nguyen, Ngan VT},<br />
+          journal={Environmental Earth Sciences},<br />
+          volume={79},<br />
+          number={5},<br />
+          pages={1--12},<br />
+          year={2020},<br />
+          publisher={Springer}<br />
+          }"
+S0016706119308419,publications/S0016706119308419.pdf,"Enhanced soil profile visualization
+              using portable X-ray fluorescence (PXRF) spectrometry","Fujun Sun, Noura Bakr, Tommy Dang, <b>Vung Pham</b>, David C Weindorf, Zhuodong
+            Jiang, Hualei
+            Li, Qiu-Bing Wang","January, 2020","Journal: Geoderma, Publisher: Elsevier",https://doi.org/10.1016/j.geoderma.2019.113997,http://idatavisualizationlab.github.io/Soil,http://idatavisualizationlab.github.io/Soil,"@article{SUN2020113997,<br />
+          title = ""Enhanced soil profile visualization using portable X-ray fluorescence (PXRF)
+          spectrometry"",<br />
+          journal = ""Geoderma"",<br />
+          volume = ""358"",<br />
+          pages = ""113997"",<br />
+          year = ""2020"",<br />
+          issn = ""0016-7061"",<br />
+          doi = ""https://doi.org/10.1016/j.geoderma.2019.113997"",<br />
+          url = ""http://www.sciencedirect.com/science/article/pii/S0016706119308419"",<br />
+          author = ""Fujun Sun and Noura Bakr and Tommy Dang and Vung Pham and David C. Weindorf
+          and Zhuodong Jiang and Hualei Li and Qiu-Bing Wang"",<br />
+          keywords = ""Pedology, Soil profile description, Elemental data, Proximal sensors,
+          Pedometrics"",<br />
+          }"
+9006542,https://ieeexplore.ieee.org/abstract/document/9006542,"Solar Flare
+              Prediction Using Two-tier Ensemble with Deep Learning and Gradient Boosting Machine","Chau Pham, <b>Vung Pham</b>, Tommy Dang","December, 2019","Conference: 2019 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData47090.2019.9006542,,,"@inproceedings{pham2019solar,<br />
+          title={Solar Flare Prediction Using Two-tier Ensemble with Deep Learning and Gradient
+          Boosting Machine},<br />
+          author={Pham, Chau and Pham, Vung and Dang, Tommy},<br />
+          booktitle={2019 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={5844--5853},<br />
+          year={2019},<br />
+          organization={IEEE}<br />
+          }"
+MTSAD,https://ieeexplore.ieee.org/abstract/document/9006559,"MTSAD: Multivariate
+Time Series Abnormality Detection and Visualization","<b>Vung Pham</b>, Ngan Nguyen, Jie Li, Jon Hass, Yong Chen, Tommy Dang","December, 2019","Conference: 2019 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData47090.2019.9006559,https://github.com/iDataVisualizationLab/ContiMap,https://www.youtube.com/watch?v=4kDprJZohgI,"@inproceedings{pham2019mtsad,<br />
+          title={Mtsad: Multivariate time series abnormality detection and visualization},<br />
+          author={Pham, Vung and Nguyen, Ngan and Li, Jie and Hass, Jon and Chen, Yong and Dang,
+          Tommy},<br />
+          booktitle={2019 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={3267--3276},<br />
+          year={2019},<br />
+          organization={IEEE}<br />
+          }<br />"
+SSMS20190029,https://compass.astm.org/DIGITAL_LIBRARY/JOURNALS/SSMS/PAGES/SSMS20190029.htm,"Visualization and Explainable Machine Learning for Efficient Manufacturing and System
+              Operations","Dy D. Le, <b>Vung Pham</b>, Huyen N. Nguyen, Tommy Dang",Nov-19,"Journal: Smart and Sustainable Manufacturing Systems, Publisher: ASTM
+            International",https://doi.org/10.1520/SSMS20190029,https://idatavisualizationlab.github.io/V/RUL_Viz/,,"@article{le2019visualization,<br />
+          title={Visualization and Explainable Machine Learning for Efficient Manufacturing and
+          System Operations},<br />
+          author={Le, Dy D and Pham, Vung and Nguyen, Huyen N and Dang, Tommy},<br />
+          year={2019},<br />
+          publisher={ASTM International}<br />
+          }<br />"
+Outliagnostics,https://ieeexplore.ieee.org/abstract/document/8973379,"Outliagnostics:
+              Visualizing Temporal Discrepancy in Outlying Signatures of Data Entries","<b>Vung Pham</b>, Tommy Dang",Oct-19,"Conference: 2019 IEEE Visualization in Data Science (VDS), Publisher: IEEE",https://doi.org/10.1109/VDS48975.2019.8973379,https://github.com/Outliagnostics/Outliagnostics.github.io,https://outliagnostics.github.io/,"@inproceedings{pham2019outliagnostics,<br />
+          title={Outliagnostics: Visualizing Temporal Discrepancy in Outlying Signatures of Data
+          Entries},<br />
+          author={Pham, Vung and Dang, Tommy},<br />
+          booktitle={2019 IEEE Visualization in Data Science (VDS)},<br />
+          pages={29--37},<br />
+          year={2019},<br />
+          organization={IEEE}<br />
+          }<br />"
+SOAViz,https://diglib.eg.org/handle/10.2312/envirvis20191102,SOAViz: Visualization for Portable X-ray Fluorescence Soil Profiles,"<b>Vung Pham</b>, Tommy Dang",Jul-19,"Conference: 2019 Workshop on Visualisation in Environmental Sciences (EnvirVis),
+            Publisher:
+ The Eurographics Association",https://doi.org/10.2312/envirvis.20191102,https://github.com/iDataVisualizationLab/Soil,http://idatavisualizationlab.github.io/Soil,"@inproceedings {virvis.20191102,<br />
+          booktitle = {Workshop on Visualisation in Environmental Sciences (EnvirVis)},<br />
+          editor = {Bujack, Roxana and Feige, Kathrin and Rink, Karsten and Zeckzer, Dirk},<br />
+          title = {{SOAViz: Visualization for Portable X-ray Fluorescence Soil Profiles}},<br />
+          author = {Pham, Vung and Dang, Tommy},<br />
+          year = {2019},<br />
+          publisher = {The Eurographics Association},<br />
+          ISBN = {978-3-03868-086-4},<br />
+          DOI = {10.2312/envirvis.20191102}<br />
+          }"
+WordStream,https://diglib.eg.org/handle/10.2312/evs20191178,WordStream: Interactive Visualization for Topic Evolution,"<b>Vung Pham</b>, Tommy Dang",Jul-19,"Conference: EuroVis 2019, Publisher: The Eurographics Association",https://doi.org/10.2312/evs.20191178,https://github.com/iDataVisualizationLab/WordStream,https://idatavisualizationlab.github.io/WordStream/video.html,"@inproceedings {s.20191178,<br />
+          booktitle = {EuroVis 2019 - Short Papers},<br />
+          editor = {Johansson, Jimmy and Sadlo, Filip and Marai, G. Elisabeta},<br />
+          title = {{WordStream: Interactive Visualization for Topic Evolution}},<br />
+          author = {Dang, Tommy and Nguyen, Huyen N. and Pham, Vung},<br />
+          year = {2019},<br />
+          publisher = {The Eurographics Association},<br />
+          ISBN = {978-3-03868-090-1},<br />
+          DOI = {10.2312/evs.20191178}<br />
+          }"
+CVExplorer,https://ieeexplore.ieee.org/abstract/document/9006542, CVExplorer: Multidimensional Visualization for Common Vulnerabilities and Exposures,"<b>Vung Pham</b>, Tommy Dang","December, 2018","Conference: 2018 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData.2018.8622092,https://github.com/iDataVisualizationLab/CVSS,https://idatavisualizationlab.github.io/CVSS/,"@inproceedings{pham2018cvexplorer,<br />
+          title={Cvexplorer: Multidimensional visualization for common vulnerabilities and
+          exposures},<br />
+          author={Pham, Vung and Dang, Tommy},<br />
+          booktitle={2018 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={1296--1301},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }<br />"
+IoTViz,https://ieeexplore.ieee.org/abstract/document/8622375,IoTViz: Visualizing emerging topics in the internet of things,"<b>Vung Pham</b>, Vinh T. Nguyen, Tommy Dang","December, 2018","Conference: 2018 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData.2018.8622375,https://github.com/iDataVisualizationLab/IoT,https://idatavisualizationlab.github.io/IoT/,"@inproceedings{pham2018iotviz,<br />
+          title={IoTViz: Visualizing emerging topics in the internet of things},<br />
+          author={Pham, Vung and Nguyen, Vinh T and Dang, Tommy},<br />
+          booktitle={2018 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={4569--4576},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }"
+FinanceViz,https://ieeexplore.ieee.org/abstract/document/8622097,FinanViz: Visualizing Emerging Topics in Financial News,"Ngan V.T. Nguyen, Vinh T. Nguyen, <b>Vung Pham</b>, Tommy Dang","December, 2018","Conference: 2018 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData.2018.8622097,https://github.com/iDataVisualizationLab/FinanViz,https://idatavisualizationlab.github.io/FinanViz/index.html,"@inproceedings{nguyen2018finanviz,<br />
+          title={Finanviz: Visualizing emerging topics in financial news},<br />
+          author={Nguyen, Ngan VT and Nguyen, Vinh T and Pham, Vung and Dang, Tommy},<br />
+          booktitle={2018 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={4698--4704},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }"
+IoTNegViz,https://ieeexplore.ieee.org/document/8621984,IoTNegViz: An interactive tool for visualizing negative aspects of IoT,"Huyen N. Nguyen, Ngan V.T. Nguyen, Vinh T. Nguyen, <b>Vung Pham</b>, Tommy Dang","December, 2018","Conference: 2018 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData.2018.8621984,https://github.com/iDataVisualizationLab/FinanViz,https://idatavisualizationlab.github.io/FinanViz/index.html,"@INPROCEEDINGS{8621984,<br />
+          author={Nguyen, Huyen N and Nguyen, Vinh T and Nguyen, NV and Pham, Vung and Dang,
+          Tommy}<br />
+          booktitle={2018 IEEE International Conference on Big Data (Big Data)},<br />
+          title={IoTNegViz: An interactive tool for visualizing negative aspects of IoT},<br />
+          year={2018},<br />
+          volume={},<br />
+          number={},<br />
+          pages={4565-4568},<br />
+          doi={10.1109/BigData.2018.8621984}}<br />"
+UFO_Tracker,https://ieeexplore.ieee.org/abstract/document/8622418,UFO_Tracker: Visualizing UFO sightings,"Vinh T. Nguyen, <b>Vung Pham</b>, Tommy Dang","December, 2018","Conference: 2018 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData.2018.8622418,,,"@inproceedings{nguyen2018ufo_tracker,<br />
+          title={Ufo\_tracker: Visualizing ufo sightings},<br />
+          author={Nguyen, Vinh T and Pham, Vung and Dang, Tommy},<br />
+          booktitle={2018 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={4352--4359},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }"
+HealthTvizer,https://ieeexplore.ieee.org/abstract/document/8622445,HealthTvizer: Exploring Health Awareness in Twitter Data through Coordinated Multiple Views,"Tommy Dang, Ngan VT Nguyen, <b>Vung Pham</b>","December, 2018","Conference: 2018 IEEE International Conference on Big Data (Big Data), Publisher:
+            IEEE",https://doi.org/10.1109/BigData.2018.8622445,,,"@inproceedings{dang2018healthtvizer,<br />
+          title={HealthTvizer: Exploring Health Awareness in Twitter Data through Coordinated
+          Multiple Views},<br />
+          author={Dang, Tommy and Nguyen, Ngan VT and Pham, Vung},<br />
+          booktitle={2018 IEEE International Conference on Big Data (Big Data)},<br />
+          pages={3647--3655},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }"
+MTDES,https://ieeexplore.ieee.org/abstract/document/8802440,"MTDES: Multi-dimensional Temporal Data Exploration System (Strong Support for Exploratory Analysis award
+              in VAST 2018 - Mini-Challenge 2)","<b>Vung Pham</b>, Tommy Dang","October, 2018","Conference: 2018 IEEE Conference on Visual Analytics Science and Technology (VAST),
+            Publisher: IEEE",https://doi.org/10.1109/VAST.2018.8802440,https://github.com/iDataVisualizationLab/VAST2018,https://idatavisualizationlab.github.io/VAST2018/,"@inproceedings{pham2018mtdes,<br />
+          title={Mtdes: Multi-dimensional temporal data exploration system; strong support for
+          exploratory analysis award in vast 2018, mini-challenge 2},<br />
+          author={Pham, Vung V and Dang, Tommy},<br />
+          booktitle={2018 IEEE Conference on Visual Analytics Science and Technology (VAST)},<br />
+          pages={100--101},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }"
+Timematrix,https://ieeexplore.ieee.org/abstract/document/8802457,"Timematrix: Visual representation for temporal pattern detection in dynamic networks (Honorable Mention:
+              Representation of Small-Scale Temporal Patterns in VAST 2018 mini-challenge 3)","Tommy Dang, <b>Vung Pham</b>","October, 2018","Conference: 2018 IEEE Conference on Visual Analytics Science and Technology (VAST),
+            Publisher: IEEE",https://doi.org/10.1109/VAST.2018.8802457,https://github.com/iDataVisualizationLab/VAST2018mc3,https://idatavisualizationlab.github.io/VAST2018mc3/,"@inproceedings{pham2018mtdes,<br />
+          title={Mtdes: Multi-dimensional temporal data exploration system; strong support for
+          exploratory analysis award in vast 2018, mini-challenge 2},<br />
+          author={Pham, Vung V and Dang, Tommy},<br />
+          booktitle={2018 IEEE Conference on Visual Analytics Science and Technology (VAST)},<br />
+          pages={100--101},<br />
+          year={2018},<br />
+          organization={IEEE}<br />
+          }"
