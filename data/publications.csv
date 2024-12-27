@@ -1,13 +1,64 @@
 id,publink,title,authors,date,publisher,doi,github,video,bibtext
-pham2023idvs,https://link.springer.com/article/10.1007/s11119-022-09962-8,iDVS: interactive 2D and 3D visualizations of proximal sensor data for rapid characterization of soil profiles,"<b>Vung Pham</b>, Cynthia M. Jordan, Matthew G. Siebecker, David C. Weindorf & Tommy Dang ",7-Oct-22,"Precision Agriculture, Springer Nature",https://doi.org/10.1007/s11119-022-09962-8,https://github.com/iDataVisualizationLab/Soil/tree/master/cores,http://idatavisualizationlab.github.io/Soil/cores/cores.html,"@article{pham2023idvs,<br/>
-  title={iDVS: interactive 2D and 3D visualizations of proximal sensor data for rapid characterization of soil profiles},<br/>
-  author={Pham, Vung and Jordan, Cynthia M and Siebecker, Matthew G and Weindorf, David C and Dang, Tommy},<br/>
-  journal={Precision Agriculture},<br/>
-  volume={24},<br/>
-  number={2},<br/>
-  pages={627--646},<br/>
+aydogan2024effect,https://www.mdpi.com/2079-9292/13/23/4804,The Effect of Ironic Process Theory on Brain Signal-Based Encryption for IoT Devices,"Ahmet Furkan Aydogan, Cihan Varol, Narasimha Karpoor Shashidhar, Amar Rasheed, <b>Van Vung Pham</b>, and Murat Karabatak",5-Dec-24,"Electronics, MDPI",https://doi.org/10.3390/electronics13234804,,,"@article{aydogan2024effect,<br/>
+  title={The Effect of Ironic Process Theory on Brain Signal-Based Encryption for IoT Devices},<br/>
+  author={Aydogan, Ahmet Furkan and Varol, Cihan and Shashidhar, Narasimha Karpoor and Rasheed, Amar and Vung Pham, Van and Karabatak, Murat},<br/>
+  journal={Electronics},<br/>
+  volume={13},<br/>
+  number={23},<br/>
+  pages={4804},<br/>
+  year={2024},<br/>
+  publisher={MDPI}<br/>
+}<br/>"
+adair2024malware,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10527239,Malware API Call-Based Multiclass-Classification Using Machine Learning and Deep Learning,"Sarah Adair, Cihan Varol, Fan Liang, <b>Vung Pham</b>",4/29/2024,"2024 12th International Symposium on Digital Forensics and Security (ISDFS), IEEE",https://doi.org/10.1109/ISDFS60797.2024.10527239,,,"@inproceedings{adair2024malware,<br/>
+  title={Malware API Call-Based Multiclass-Classification Using Machine Learning and Deep Learning},<br/>
+  author={Adair, Sarah and Varol, Cihan and Liang, Fan and Pham, Vung},<br/>
+  booktitle={2024 12th International Symposium on Digital Forensics and Security (ISDFS)},<br/>
+  pages={1--7},<br/>
+  year={2024},<br/>
+  organization={IEEE}<br/>
+}<br/>"
+perera2024melanoma,https://www.scitepress.org/Papers/2024/125754/125754.pdf,Melanoma Classification Through Deep Ensemble Learning and Explainable AI,"Wadduwage Shanika Perera, ABM Islam, <b>Van Vung Pham</b>, and Min Kyung An",Apr-24,"In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF; ISBN 978-989-758-688-0; ISSN 2184-4305, SciTePress, pages 263-274",https://doi.org/10.5220/0012575400003657,,,"@inproceedings{perera2024melanoma,<br/>
+  title={Melanoma Classification Through Deep Ensemble Learning and Explainable AI.},<br/>
+  author={Perera, Wadduwage Shanika and Islam, Abm Rezbaul and Pham, Vung V and An, Min Kyung},<br/>
+  booktitle={BIOSTEC (2)},<br/>
+  pages={263--274},<br/>
+  year={2024}<br/>
+}<br/>"
+pham2024improving,https://hdl.handle.net/20.500.11875/4884,Improving Road Damage Detection Accuracy Using Deep Learning Image Enhancement Models,Vung Pham,Aug-24,Institute for Homeland Security,https://doi.org/10.17605/OSF.IO/ZDKJN,,,"@techreport{pham2024improving,<br/>
+  title={Improving Road Damage Detection Accuracy Using Deep Learning Image Enhancement Models},<br/>
+  author={Pham, Vung},<br/>
+  year={2024},<br/>
+  institution={Institute for Homeland Security}<br/>
+}<br/>"
+dalvi2023improving,https://ieeexplore.ieee.org/abstract/document/10386597/,Improving Fingerprint Classification Accuracy Using Image Enhancement Deep Learning Models,Nikita Dalvi; Min Kyung An; Abm Rezbaul Islam; <b>Vung Pham</b>,Dec-23,"2023 IEEE International Conference on Big Data (BigData), IEEE",https://doi.org/10.1109/BigData59044.2023.10386597,,,"@inproceedings{dalvi2023improving,<br/>
+  title={Improving Fingerprint Classification Accuracy Using Image Enhancement Deep Learning Models},<br/>
+  author={Dalvi, Nikita and An, Min Kyung and Islam, Abm Rezbaul and Pham, Vung},<br/>
+  booktitle={2023 IEEE International Conference on Big Data (BigData)},<br/>
+  pages={3245--3254},<br/>
   year={2023},<br/>
-  publisher={Springer}<br/>
+  organization={IEEE}<br/>
+}<br/>"
+gonzalez2023comparative,https://www.sciencedirect.com/science/article/pii/S0168169923007652?casa_token=-VEJWrM7HoMAAAAA:LoCSCfg61ECAVpQA3xQ_WLqPGXYlwe2aHFFJcYj9NuK-NWC7d2Qc5oYct5ogSX-bbKStrk_4UQ,Comparative analysis and visualization of soil profiles at the meter spatial scale utilizing novel matrix and volume rendering techniques,"Jake Gonzalez, Matthew Siebecker, <b>Vung Pham</b>, Cynthia Jordan, David C. Weindorf, Tommy Dang",8-Nov-23,"Computers and Electronics in Agriculture, Elsevier",https://doi.org/10.1016/j.compag.2023.108377,,,"@article{gonzalez2023comparative,<br/>
+  title={Comparative analysis and visualization of soil profiles at the meter spatial scale utilizing novel matrix and volume rendering techniques},<br/>
+  author={Gonzalez, Jake and Siebecker, <br/>Matthew and Pham, Vung and Jordan, Cynthia and Weindorf, David C and Dang, Tommy},<br/>
+  journal={Computers and Electronics in Agriculture},<br/>
+  volume={215},<br/>
+  pages={108377},<br/>
+  year={2023},<br/>
+  publisher={Elsevier}<br/>
+}<br/>"
+dalvi2023deep,https://shsu-ir.tdl.org/items/9835892c-491f-4eac-9027-6aa97a2b99e2,Deep Learning Approaches for Fingerprint Verification,"Nikita Dalvi, <b>Van Vung Pham</b>",10/15/2023,Institute for Homeland Security,https://doi.org/10.17605/OSF.IO/R4XGT,,,"@article{dalvi2023deep,<br/>
+  title={Deep Learning Approaches for Fingerprint Verification},<br/>
+  author={Dalvi, Nikita and Pham, Van Vung},<br/>
+  year={2023},<br/>
+  publisher={Institute for Homeland Security}<br/>
+}<br/>"
+pham2023handon,https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization/dp/1800561628,Hands-On Computer Vision with Detectron2,<b>Van Vung Pham</b>,11-Apr-23,Packt,https://www.amazon.com/Hands-Computer-Vision-Detectron2-visualization/dp/1800561628,https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-Detectron2,https://www.youtube.com/playlist?list=PLeLcvrwLe187ZsgxTl3XP7LhhK-tj2j2i,"@book{pham2022handon,<br/>
+    author = {Pham, Vung},<br/>
+    title = {Hands-On Computer Vision with Detectron2},<br/>
+    publisher = {Packt},<br/>
+    year = {2023},<br/>
+    note={{ISBN-10: 1800561628; ISBN-13: 978-1800561625}}<br/>
 }"
 nguyen2022racaviz,https://ieeexplore.ieee.org/abstract/document/10020463,RaCAViz: Interactive Visualizations for Rapid Carbon Assessment,Du Nguyen; <b>Vung Pham</b>,1-Dec-22,"2022 IEEE International Conference on Big Data (Big Data), IEEE",https://doi.org/10.1109/BigData55660.2022.10020463,,,"@inproceedings{nguyen2022racaviz,<br/>
   title={RaCAViz: Interactive Visualizations for Rapid Carbon Assessment},<br/>
@@ -87,8 +138,7 @@ ScagnosticsJS,https://diglib.eg.org/bitstream/handle/10.2312/egs20201022/077-080
           ISBN = {978-3-03868-101-4},<br />
           DOI = {10.2312/egs.20201022}<br />
           }"
-3406601.3406643,https://dl.acm.org/doi/abs/10.1145/3406601.3406643,"DeepVix: Explaining Long
-              Short-Term Memory Network With High Dimensional Time Series Data","Tommy Dang, Hao Van, Huyen Nguyen, <b>Vung Pham</b>, Rattikorn Hewett",20-Jul,"IAIT2020: Proceedings of the 11th International Conference on Advances in Information
+3406601.3406643,https://dl.acm.org/doi/abs/10.1145/3406601.3406643,DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time Series Data,"Tommy Dang, Hao Van, Huyen Nguyen, <b>Vung Pham</b>, Rattikorn Hewett",20-Jul,"IAIT2020: Proceedings of the 11th International Conference on Advances in Information
             Technology, Publisher: ACM",https://doi.org/10.1145/3406601.3406643,,,"@inproceedings{dang2020deepvix,<br />
           title={DeepVix: Explaining Long Short-Term Memory Network With High Dimensional Time
           Series Data},<br />
